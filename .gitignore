@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS `provincias` (
   `id` int(2) NOT NULL auto_increment,
-  `provincia` varchar(255) collate latin1_spanish_ci NOT NULL,
+  `provincia` varchar(250) collate latin1_spanish_ci NOT NULL,
   `provincia_url` varchar(250) collate latin1_spanish_ci NOT NULL,
   KEY `id` (`id`),
   KEY `provincia_url` (`provincia_url`)
