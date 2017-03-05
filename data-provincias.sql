@@ -16,7 +16,7 @@ INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
 (13, 'Castellón', 'castellon'),
 (14, 'Ciudad Real', 'ciudad-real'),
 (15, 'Córdoba', 'cordoba'),
-(16, 'La Coruña', 'la-coruna'),
+(16, 'A Coruña', 'a-coruna'),
 (17, 'Cuenca', 'cuenca'),
 (18, 'Gerona', 'gerona'),
 (19, 'Granada', 'granada'),
