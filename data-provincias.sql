@@ -1,7 +1,7 @@
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 
 INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
-(1, 'Álava', 'alava'),
+(1, 'Araba/Álava', 'araba-alava'),
 (2, 'Albacete', 'albacete'),
 (3, 'Alicante', 'alicante'),
 (4, 'Almería', 'almeria'),
@@ -24,7 +24,7 @@ INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
 (21, 'Gipuzkoa', 'gipuzkoa'),
 (22, 'Huelva', 'huelva'),
 (23, 'Huesca', 'huesca'),
-(24, 'Baleares', 'baleares'),
+(24, 'Illes Balears', 'illes-balears'),
 (25, 'Jaén', 'jaen'),
 (26, 'León', 'leon'),
 (27, 'Lleida,', 'lleida,'),
