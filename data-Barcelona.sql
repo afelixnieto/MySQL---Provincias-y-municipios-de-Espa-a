@@ -1,3 +1,5 @@
+-- Municipios Barcelona
+
 INSERT INTO `municipios` (`id`, `id_pro`, `municipio`, `municipio_url`) VALUES
 (1, 8, 'Abrera', 'abrera'),
 (2, 8, 'Aguilar de Segarra', 'aguilar-de-segarra'),
