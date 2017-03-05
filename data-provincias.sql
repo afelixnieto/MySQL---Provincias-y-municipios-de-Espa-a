@@ -21,7 +21,7 @@ INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
 (18, 'Girona', 'girona'),
 (19, 'Granada', 'granada'),
 (20, 'Guadalajara', 'guadalajara'),
-(21, 'Guipúzcoa', 'guipuzcoa'),
+(21, 'Gipuzkoa', 'gipuzkoa'),
 (22, 'Huelva', 'huelva'),
 (23, 'Huesca', 'huesca'),
 (24, 'Baleares', 'baleares'),
