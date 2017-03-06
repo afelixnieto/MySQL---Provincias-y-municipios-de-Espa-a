@@ -33,7 +33,7 @@ INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
 (30, 'Málaga', 'malaga'),
 (31, 'Murcia', 'murcia'),
 (32, 'Navarra', 'navarra'),
-(33, 'Orense', 'orense'),
+(33, 'Ourense', 'ourense'),
 (34, 'Palencia', 'palencia'),
 (35, 'Las Palmas', 'las-palmas'),
 (36, 'Pontevedra', 'pontevedra'),
