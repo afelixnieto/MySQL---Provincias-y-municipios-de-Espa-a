@@ -48,6 +48,6 @@ INSERT INTO `provincias` (`id`, `provincia`, `provincia_url`) VALUES
 (45, 'Toledo', 'toledo'),
 (46, 'València', 'valencia'),
 (47, 'Valladolid', 'valladolid'),
-(48, 'Vizcaya', 'vizcaya'),
+(48, 'Bizkaia', 'bizkaia'),
 (49, 'Zamora', 'zamora'),
 (50, 'Zaragoza', 'zaragoza');
